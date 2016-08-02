@@ -1,7 +1,6 @@
-watir_cucumber_template
-=======================
+<h3>RUBY-SELENIUM-CUCUMBER</h3>
 
-watir, cucumber, ruby template project structure
+Based on www.seleniumframework.com tutorial
 
-rake features - all
+rake features - all features run</br>
 rake run_with_tags[tag1] - run with tag1 inplace
